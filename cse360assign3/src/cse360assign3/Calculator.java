@@ -1,7 +1,7 @@
 /** Name:	Jacob Buchanan
  * 	PIN:	203
  * 	Assignment 3
- * 	Due:	2/22/2016
+ * 	Due:	2/22/16
  */
 
 package cse360assign3;
@@ -64,7 +64,7 @@ public class Calculator {
 
 	}
 
-	/** gitHistory: Returns an empty String
+	/** getHistory: Returns an empty String
 	 * 
 	 * @author Jacob Buchanan
 	 * @return ""
